@@ -6,3 +6,4 @@ STM32F4 bare metal drivers for UART/SPI/I2C/GPIO/RCC created from 0 using embedd
 -I will post more drivers as I test them (SPI and I2C are very hard to test without a SLAVE device)
 -I will also post projects using these drivers in this repository (maybe using an LCD with SPI and LED Matrix)
 //I will show the projects YouTube videos maybe?
+//hope to find another MCU with CAN, LIN and Ethernet so I can learn these com protocols as well
